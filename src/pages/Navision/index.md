@@ -1,5 +1,5 @@
 ---
-templateKey: 'about-page'
+templateKey: 'navision-page'
 path: /Navision
 title: Navision
 ---
